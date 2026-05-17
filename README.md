@@ -50,9 +50,6 @@ AI-powered code fixing and debugging platform built using Next.js, WebSockets, a
 * Developer-focused workflow
 * Modern responsive UI
 
-🔗 Live Demo: Add Link Here
-🔗 GitHub: Add Link Here
-
 ---
 
 ## 🧠 BrainDrainAI – AI Study Assistant
@@ -65,17 +62,11 @@ AI learning platform with Solver, Notes Generator, and Quizzer modes.
 * Streamlit
 * Fireworks LLMs
 
-🔗 Live Demo: Add Link Here
-🔗 GitHub: Add Link Here
-
 ---
 
 ## 🛡 SenTinal – AI Malware Detector
 
 AI-based malware detection prototype that analyzes files and suggests possible threats and removals.
-
-🔗 Live Demo: Add Link Here
-🔗 GitHub: Add Link Here
 
 ---
 
