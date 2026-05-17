@@ -12,12 +12,6 @@ I’m a B.Tech Computer Science student at Punjab Engineering College (2023–20
 
 I enjoy building practical software products, exploring new technologies, and solving real-world problems through code.
 
-Currently exploring:
-
-* Open Source Contributions
-* Cloud Native & CNCF Ecosystem
-* AI Integrations & Developer Tools
-* Scalable Full-Stack Applications
 
 ---
 
@@ -40,11 +34,6 @@ Currently exploring:
 * LLM Integrations
 
 ### Currently Learning
-
-* Golang
-* Cloud Native Technologies
-* OCI Registries
-* DevOps Fundamentals
 
 ---
 
@@ -81,22 +70,6 @@ AI learning platform with Solver, Notes Generator, and Quizzer modes.
 
 ---
 
-## 💰 SplitSetGo – Expense Sharing App
-
-A Splitwise-inspired full-stack application for tracking group expenses and balances.
-
-### Features
-
-* Expense tracking
-* Shared balance management
-* Group support
-* Responsive UI
-
-🔗 Live Demo: Add Link Here
-🔗 GitHub: Add Link Here
-
----
-
 ## 🛡 SenTinal – AI Malware Detector
 
 AI-based malware detection prototype that analyzes files and suggests possible threats and removals.
@@ -106,36 +79,8 @@ AI-based malware detection prototype that analyzes files and suggests possible t
 
 ---
 
-## 📈 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Aishvarya-Pec\&show_icons=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Aishvarya-Pec\&layout=compact)
-
----
-
-## 🏆 Certifications
-
-* Certified Frontend Developer (React) – HackerRank
-* Certified Software Engineer Intern – HackerRank
-* Code Generation and Optimization Using IBM Granite – IBM SkillsBuild
-
----
-
-## 🌱 Open Source Goals
-
-* Contribute to CNCF projects
-* Improve developer tooling
-* Learn cloud-native systems
-* Build scalable open-source software
-
----
-
 ## 📫 Connect With Me
 
-* GitHub: [https://github.com/Aishvarya-Pec](https://github.com/Aishvarya-Pec)
-* LinkedIn: Add LinkedIn Link
-* Portfolio: Add Portfolio Link
 * Email: [aish160502@gmail.com](mailto:aish160502@gmail.com)
 
 ---
